@@ -31,3 +31,18 @@ We used the following languages and software tools:
 * The frames are also sent to a PC via a socket connection where they are being fed to an obeject detection model based on the sliding window algorithm. This model should detect if there is a stop sign, a red light, a green light in the frame and return the result back to the Raspberry SBC. The task is being run on dedicated a computer because, unlike lane keeping, it is computionally heavy.
 * The system can also detect obstacles using an ultrasonic sensor.
 * All actions are being handeled by the Arduino.
+
+## Lane keeping
+![](https://github.com/Rami97rgb/Self-Driving-RC-Car/blob/master/images/car2.gif)
+
+## Stop Sign Detection
+![](https://github.com/Rami97rgb/Self-Driving-RC-Car/blob/master/images/car3.gif)
+
+## Traffic Lights Detection
+![](https://github.com/Rami97rgb/Self-Driving-RC-Car/blob/master/images/car4.gif)
+![](https://github.com/Rami97rgb/Self-Driving-RC-Car/blob/master/images/car5.gif)
+
+## Obstacle Detection
+![](https://github.com/Rami97rgb/Self-Driving-RC-Car/blob/master/images/car6.gif)
+
+## Resources
