@@ -5,16 +5,16 @@ Built a self driving RC car that can detect traffic lights, stop signs, obstacle
 
 ## Hardware
 The following hardware has been used:
-* Raspberry Pi b+
+* Raspberry Pi 3 b+
 * Arduino Uno
 * USB Webcam
 * DC motors
-* A powerbank and som AA barttries
-* Ulstrasonic sensor
+* A powerbank and some AA barttries
+* Ultrasonic sensor
 * A PC
 
 ## Software
-We used the following languages and software tools
+We used the following languages and software tools:
 * Python
 * C/C++
 * OpenCV
